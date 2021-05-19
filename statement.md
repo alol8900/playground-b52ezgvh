@@ -1,14 +1,3 @@
-# Welcome!
-
-This Python template lets you get started quickly with a simple one-page playground.
-
-```python runnable
-print('Hello World!')
-```
-
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
 while True:
     ally_bot_alive = int(input())  
     total_entities = int(input())  
@@ -20,4 +9,4 @@ while True:
         health = int(inputs[2])  
         shield = int(inputs[3])  
         shieldDic[ent_id] = shield  # store the shield value for the id
-        ... 
+        ...  
